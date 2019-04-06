@@ -12,3 +12,5 @@ Example: int arr[] = {-4,-1,0,3,10};
 Output: 0 1 9 16 100 
 
 subset_array_hash.java: This java file checks if the given array is the subset of another array using the hash function.
+
+subset_array_sorting_merging: This java file checks if the given array is the subset of another array using merging and sorting techniques.
