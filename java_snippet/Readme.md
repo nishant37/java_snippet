@@ -22,3 +22,7 @@ bubble_sort.java: This file demonstrates the bubble sort in java.
 checkPair.java: This file demonstrates that given an array and a sum. Find the pairs of the sum in array. 
 Example:  int arr[] = {1,4,45,6,10,8};
        int sum = 16;
+       
+inputOperations.java: This file demonstrates the minimum operations to be performed on an array so that all the elements of an array are equal.
+Example:   int []arr = {1,5,2,1,3,2,1};
+Output: 4
