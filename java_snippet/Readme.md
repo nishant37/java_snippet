@@ -14,3 +14,11 @@ Output: 0 1 9 16 100
 subset_array_hash.java: This java file checks if the given array is the subset of another array using the hash function.
 
 subset_array_sorting_merging: This java file checks if the given array is the subset of another array using merging and sorting techniques.
+
+
+bubble_sort.java: This file demonstrates the bubble sort in java.
+
+
+checkPair.java: This file demonstrates that given an array and a sum. Find the pairs of the sum in array. 
+Example:  int arr[] = {1,4,45,6,10,8};
+       int sum = 16;
