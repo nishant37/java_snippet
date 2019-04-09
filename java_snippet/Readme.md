@@ -32,4 +32,11 @@ duplicate.java: Check if a given array contains duplicate elements within k dist
 Example: Input: k = 3, arr[] = {1, 2, 3, 4, 1, 2, 3, 4}
 Output: false
 
+duplicate_array.java: Find duplicates in a given array when elements are not limited to a range.
+Example:
+Input : {2, 10, 100, 2, 10, 11}
+Output : 2 10
+
+Input : {5, 40, 1, 40, 100000, 1, 5, 1}
+Output : 5 40 1
 
