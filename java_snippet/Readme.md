@@ -26,3 +26,10 @@ Example:  int arr[] = {1,4,45,6,10,8};
 inputOperations.java: This file demonstrates the minimum operations to be performed on an array so that all the elements of an array are equal.
 Example:   int []arr = {1,5,2,1,3,2,1};
 Output: 4
+
+
+duplicate.java: Check if a given array contains duplicate elements within k distance from each other
+Example: Input: k = 3, arr[] = {1, 2, 3, 4, 1, 2, 3, 4}
+Output: false
+
+
