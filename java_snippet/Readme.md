@@ -40,3 +40,13 @@ Output : 2 10
 Input : {5, 40, 1, 40, 100000, 1, 5, 1}
 Output : 5 40 1
 
+spiral_matrix.java: This program file prints the 2-d matrix into the spiral form.
+Example 1:
+
+Input:
+[
+ [ 1, 2, 3 ],
+ [ 4, 5, 6 ],
+ [ 7, 8, 9 ]
+]
+Output: [1,2,3,6,9,8,7,4,5]
