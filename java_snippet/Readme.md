@@ -50,3 +50,16 @@ Input:
  [ 7, 8, 9 ]
 ]
 Output: [1,2,3,6,9,8,7,4,5]
+
+
+transpose.java: This program file shows the transpose of the 2-d matrix.
+
+Example 1:
+
+Input: [[1,2,3],[4,5,6],[7,8,9]]
+Output: [[1,4,7],[2,5,8],[3,6,9]]
+Example 2:
+
+Input: [[1,2,3],[4,5,6]]
+Output: [[1,4],[2,5],[3,6]]
+
