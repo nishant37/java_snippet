@@ -63,3 +63,11 @@ Example 2:
 Input: [[1,2,3],[4,5,6]]
 Output: [[1,4],[2,5],[3,6]]
 
+queue.java: This java file demonstrates the common operations which are performed on the queue.
+Common operations of queue are:
+1. add
+2. peek
+3. element
+4. poll
+5. remove
+6. size
