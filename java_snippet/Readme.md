@@ -71,3 +71,6 @@ Common operations of queue are:
 4. poll
 5. remove
 6. size
+
+queue_props.java: ENQUE AND DEQUE implementation in Java.
+
