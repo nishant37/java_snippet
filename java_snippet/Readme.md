@@ -74,3 +74,4 @@ Common operations of queue are:
 
 queue_props.java: ENQUE AND DEQUE implementation in Java.
 
+makingAnagram.java: This program in java computes the number of operations performed on the two strings to make them anagram of each other. 
