@@ -85,3 +85,4 @@ Ex:  String[] str = {"cat","dog","tac","god","act","value"};
  Output: [cat, tac, act]
              [dog, god]
              
+distinctPerm.java: This program in java is used to get the distinct permutations of the String.
