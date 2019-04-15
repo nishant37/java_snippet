@@ -79,3 +79,9 @@ makingAnagram.java: This program in java computes the number of operations perfo
 
 grpAnagram.java: This program in java computes that Given an array of strings, group anagrams together.
 
+groupAnagrams.java: Group Anagrams in a String and Find the value of the output whose length>1
+
+Ex:  String[] str = {"cat","dog","tac","god","act","value"};
+ Output: [cat, tac, act]
+             [dog, god]
+             
