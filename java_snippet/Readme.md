@@ -86,3 +86,13 @@ Ex:  String[] str = {"cat","dog","tac","god","act","value"};
              [dog, god]
              
 distinctPerm.java: This program in java is used to get the distinct permutations of the String.
+
+
+matched.java:  Number of Matching Subsequences
+Given string S and a dictionary of words words, find the number of words[i] that is a subsequence of S.
+Example :
+Input: 
+S = "abcde"
+words = ["a", "bb", "acd", "ace"]
+Output: 3
+Explanation: There are three words in words that are a subsequence of S: "a", "acd", "ace".
