@@ -96,3 +96,9 @@ S = "abcde"
 words = ["a", "bb", "acd", "ace"]
 Output: 3
 Explanation: There are three words in words that are a subsequence of S: "a", "acd", "ace".
+
+
+threeSum.java:  Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0
+Find all unique triplets in the array which gives the sum of zero.
+
+
