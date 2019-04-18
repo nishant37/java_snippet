@@ -102,3 +102,5 @@ threeSum.java:  Given an array nums of n integers, are there elements a, b, c in
 Find all unique triplets in the array which gives the sum of zero.
 
 reverseList.java: This program reverses the linked list in java and prints them.
+
+altCharcaters.java: Given a string containing characters A and B only. Your task is to change it into a string such that there are no matching adjacent characters.  To do this, you are allowed to delete zero or more characters in the string.
