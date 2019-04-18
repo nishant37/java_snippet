@@ -104,3 +104,7 @@ Find all unique triplets in the array which gives the sum of zero.
 reverseList.java: This program reverses the linked list in java and prints them.
 
 altCharcaters.java: Given a string containing characters A and B only. Your task is to change it into a string such that there are no matching adjacent characters.  To do this, you are allowed to delete zero or more characters in the string.
+
+Stack_Operation.java: Given two sequences pushed and popped with distinct values, return true if and only if this could have been the result of a sequence of push and pop operations on an initially empty stack.
+Input: pushed = [1,2,3,4,5], popped = [4,5,3,2,1]
+Output: true
