@@ -108,3 +108,7 @@ altCharcaters.java: Given a string containing characters A and B only. Your task
 Stack_Operation.java: Given two sequences pushed and popped with distinct values, return true if and only if this could have been the result of a sequence of push and pop operations on an initially empty stack.
 Input: pushed = [1,2,3,4,5], popped = [4,5,3,2,1]
 Output: true
+
+ThreeSumClosest.java: 3Sum Closest
+ Given an array nums of n integers and an integer target, find three integers in nums such that the sum is closest to target. 
+ Return the sum of the three integers. 
