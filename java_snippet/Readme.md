@@ -115,3 +115,7 @@ ThreeSumClosest.java: 3Sum Closest
  
  
  removeDuplicate.java: Remove Duplicates from Sorted Array
+ 
+ bestStock.java: Best Time to Buy and Sell Stock II
+ 
+ rotateArray.java:  Rotate an Array by given k-steps 
