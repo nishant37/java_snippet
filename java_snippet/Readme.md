@@ -118,4 +118,7 @@ ThreeSumClosest.java: 3Sum Closest
  
  bestStock.java: Best Time to Buy and Sell Stock II
  
- rotateArray.java:  Rotate an Array by given k-steps 
+ rotateArray.java:  Rotate an Array by given k-steps
+ 
+ containsDuplicate.java:  Contains Duplicate
+  Given an array of integers, find if the array contains any duplicates. Your function should return true if any value appears at least twice in the array,  and it should return false if every element is distinct.
