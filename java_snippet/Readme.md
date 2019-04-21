@@ -124,3 +124,7 @@ ThreeSumClosest.java: 3Sum Closest
   Given an array of integers, find if the array contains any duplicates. Your function should return true if any value appears at least twice in the array,  and it should return false if every element is distinct.
   
   FirstUniqueCharacter.java: This java program finds the first unique character in String.
+  
+  PermutationString.java: This java program finds the permutations of the given string.
+  
+  
