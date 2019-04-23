@@ -134,3 +134,5 @@ ThreeSumClosest.java: 3Sum Closest
   Integer_To_Roman.java: Given an integer convert it into Roman numeral
   
   longestCommonPrefix.java: This java program is used to find longest common prefix using the brute force type in a String array.
+  
+  maximumArray.java: This java program is used to find the Maximum Subarray
