@@ -145,3 +145,5 @@ Return any permutation A of [0, 1, ..., N] such that for all i = 0, ..., N-1:
 
 If S[i] == "I", then A[i] < A[i+1]
 If S[i] == "D", then A[i] > A[i+1]
+
+backspaceString.java: Backspace String Compare. Given two strings S and T, return if they are equal when both are typed into empty text editors. # means a backspace character.
