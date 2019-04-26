@@ -148,3 +148,4 @@ If S[i] == "D", then A[i] > A[i+1]
 
 backspaceString.java: Backspace String Compare. Given two strings S and T, return if they are equal when both are typed into empty text editors. # means a backspace character.
 
+reverseString.java: This java program is used to reverse a string in Java.
