@@ -153,3 +153,5 @@ reverseString.java: This java program is used to reverse a string in Java.
 reverseStringII.java: This java program demonstrates the reverse stringII from the leetcode.
 
 reverseStringIII.java: This java program demonstates the reverse stringIII from the leetcode (557)
+
+jewelsStone.java: Jewels and Stones (771) from leetcode.
