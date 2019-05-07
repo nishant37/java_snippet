@@ -155,3 +155,6 @@ reverseStringII.java: This java program demonstrates the reverse stringII from t
 reverseStringIII.java: This java program demonstates the reverse stringIII from the leetcode (557)
 
 jewelsStone.java: Jewels and Stones (771) from leetcode.
+
+intersection_array.java: Intersection of Arrays II (350).
+
