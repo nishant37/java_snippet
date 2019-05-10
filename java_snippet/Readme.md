@@ -159,3 +159,5 @@ jewelsStone.java: Jewels and Stones (771) from leetcode.
 intersection_array.java: Intersection of Arrays II (350).
 
 removeOuter.java: 1021. Remove Outermost Parentheses
+
+Reveal_Cards_in_Increasing_Order.java: 950:Reveal Cards In Increasing Order
